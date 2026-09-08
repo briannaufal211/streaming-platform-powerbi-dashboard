@@ -102,15 +102,7 @@ Key elements include:
 
 # Dashboard Preview
 
-> Add screenshots exported from the final Power BI report to the `screenshots/` folder using the filenames below.
-
-### Executive Dashboard
-
-![Executive Dashboard](screenshots/dashboard-overview.png)
-
-### Detail Province
-
-![Detail Province](screenshots/detail-province.png)
+The dashboard screenshots are available in the `screenshots/` folder.
 
 ---
 
