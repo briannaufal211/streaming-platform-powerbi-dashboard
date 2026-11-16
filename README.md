@@ -100,9 +100,15 @@ Key elements include:
 
 ---
 
-# Dashboard Preview
+## Power BI Dashboard Screenshots
 
-The dashboard screenshots are available in the `screenshots/` folder.
+### Executive Overview
+
+![Executive Overview Power BI dashboard screenshot](Screenshot%20Dashboard%20Streaming/Overview%20Dashboard.png)
+
+### Province Drill-Down
+
+![Province Drill-Down Power BI dashboard screenshot](Screenshot%20Dashboard%20Streaming/Detail%20Province.png)
 
 ---
 
@@ -439,58 +445,9 @@ Decision Support
 
 ## Project Deliverables
 
-Recommended GitHub repository structure:
-
-```text
-streaming-platform-powerbi-dashboard/
-│
-├── README.md
-│
-├── dashboard/
-│   └── Streaming Platform Dashboard.pbix
-│
-├── report/
-│   ├── Streaming Platform Dashboard.pptx
-│   └── Streaming Platform Dashboard.pdf
-│
-└── screenshots/
-    ├── dashboard-overview.png
-    └── detail-province.png
-```
-
----
-
-## How to Use
-
-### Option 1 — Interactive Dashboard
-
-Open:
-
-```text
-dashboard/Streaming Platform Dashboard.pbix
-```
-
-using **Power BI Desktop**.
-
-### Option 2 — Case Study Report
-
-Open the PowerPoint/PDF in:
-
-```text
-report/
-```
-
-This is suitable for recruiters and stakeholders who do not have Power BI Desktop.
-
-### Option 3 — Portfolio Preview
-
-Use the screenshots in:
-
-```text
-screenshots/
-```
-
-for GitHub and your personal portfolio website.
+- [View the project presentation (PPTX)](Streaming_Platform_Dashboard_Presentation_REVISED.pptx)
+- [Download the interactive report (PBIX)](Streaming_Platform_Analytics_Dashboard.pbix) and open it in Power BI Desktop.
+- [Browse the dashboard screenshots](Screenshot%20Dashboard%20Streaming).
 
 ---
 
